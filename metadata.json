@@ -1,0 +1,6 @@
+{
+  "name": "LabelFix",
+  "description": "Simple tools for e-commerce shipping labels: thermal-ready 4×6 label processing, promotional overlays, and marketplace cropping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
